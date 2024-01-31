@@ -1,1 +1,8 @@
-deneme 2
+# Social-Website
+## Description
+
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
